@@ -7,5 +7,6 @@ public class githubtest
     {
        
         System.out.printf("Test Nummer 3:");
+        System.out.printf("Menschenfleisch");
     }
 }
